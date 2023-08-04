@@ -1,0 +1,258 @@
+body{
+    background-color: rgb(35, 26, 26);
+}
+
+h1,h2{
+    text-align: center;
+    color: white;
+    
+}
+
+h1{
+    transition: 0s;
+    transform: scale(1.1);
+    color: white;
+    
+
+}
+
+
+
+
+ul{
+    list-style: none;
+    display: flex;
+    flex-flow: wrap;
+    color: white;
+    
+}
+
+
+.card{
+     background-color:rgb(24, 110, 172);
+     width: calc(76%/3);
+   
+    margin: 2%;
+    padding: 2%;
+    text-align: center;
+    transition: 0.3s;
+    outline-style: solid;
+
+}
+
+.card:hover{
+    transform:scale(1.1);
+} 
+
+.card__name{
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration-line: underline;
+}
+
+.card__name span {
+    font-size: 15px;
+    text-decoration-line: underline;
+}
+
+.card__total {
+    font-size: 200%;
+    font-weight: bold;
+
+}
+
+
+.card2{
+    background-color:rgb(95, 61, 101);
+    width: calc(76%/3);
+  
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+   outline-style: solid;
+
+}
+
+.card2:hover{
+   transform:scale(1.1);
+} 
+
+.card2__name{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card2__name span {
+   font-size: 15px;
+}
+
+.card2__total {
+   font-size: 200%;
+   font-weight: bold;
+
+}
+
+
+.card3{
+    background-color:rgb(232, 169, 54);
+    width: calc(76%/3);
+  
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+   outline-style: solid;
+
+}
+
+.card3:hover{
+   transform:scale(1.1);
+} 
+
+.card3__name{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card3__name span {
+   font-size: 15px;
+}
+.card3__total {
+   font-size: 200%;
+   font-weight: bold;
+
+}
+
+
+.card3{
+    background-color:rgb(25, 130, 104);
+    width: calc(76%/3);
+  
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+   outline-style: solid;
+
+}
+
+.card3:hover{
+   transform:scale(1.1);
+} 
+
+.card3__name{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card3__name span {
+   font-size: 15px;
+}
+
+.card3__total {
+   font-size: 200%;
+   font-weight: bold;
+
+}
+
+
+
+
+.card4{
+    background-color:rgb(98, 110, 58);
+    width: calc(76%/3);
+  
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+   outline-style: solid;
+
+}
+
+.card4:hover{
+   transform:scale(1.1);
+} 
+
+.card4__name{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card4__name span {
+   font-size: 15px;
+}
+
+.card4__total {
+   font-size: 200%;
+   font-weight: bold;
+
+}
+
+
+.card5{
+    background-color:rgb(166, 91, 96);
+    width: calc(76%/3);
+  
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+   outline-style: solid;
+   
+
+}
+
+.card5:hover{
+   transform:scale(1.1);
+} 
+
+.card5__name{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card5__name span {
+   font-size: 15px;
+}
+
+.card5__total {
+   font-size: 200%;
+   font-weight: bold;
+
+}
+
+
+.card6{
+    background-color:rgb(141, 86, 28);
+    width: calc(76%/3);
+  
+   margin: 2%;
+   padding: 2%;
+   text-align: center;
+   transition: 0.3s;
+   outline-style: solid;
+
+}
+
+.card6:hover{
+   transform:scale(1.1);
+} 
+
+.card6__name{
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.card6__name span {
+   font-size: 15px;
+}
+
+.card6__total {
+   font-size: 200%;
+   font-weight: bold;
+
+}
+
+
